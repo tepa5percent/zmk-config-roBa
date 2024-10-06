@@ -4,10 +4,12 @@ config ZMK_KEYBOARD_NAME
     default "roBa_R"
 
 config ZMK_SPLIT
-    default y
+//    default y
+default n
 
 config ZMK_SPLIT_ROLE_CENTRAL
-    default y
+//    default y
+default n
 
 endif
 
@@ -17,6 +19,7 @@ config ZMK_KEYBOARD_NAME
     default "roBa_L"
 
 config ZMK_SPLIT
-    default y
+ //    default y
+default n
 
 endif
