@@ -3,6 +3,8 @@ if SHIELD_ROBA_R
 config ZMK_KEYBOARD_NAME
     default "roBa_R"
 
+CONFIG_ZMK_BLE
+
 //config ZMK_SPLIT
 //    default y
 
@@ -16,6 +18,8 @@ if SHIELD_ROBA_L
 
  config ZMK_KEYBOARD_NAME
     default "roBa_L"
+
+CONFIG_ZMK_BLE
 
 //config ZMK_SPLIT
 //    default y
