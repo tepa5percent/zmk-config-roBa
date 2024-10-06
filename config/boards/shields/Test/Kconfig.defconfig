@@ -3,23 +3,21 @@ if SHIELD_ROBA_R
 config ZMK_KEYBOARD_NAME
     default "roBa_R"
 
-config ZMK_SPLIT
+//config ZMK_SPLIT
 //    default y
-default n
 
-config ZMK_SPLIT_ROLE_CENTRAL
+
+// config ZMK_SPLIT_ROLE_CENTRAL
 //    default y
-default n
 
 endif
 
 if SHIELD_ROBA_L
 
-config ZMK_KEYBOARD_NAME
+ config ZMK_KEYBOARD_NAME
     default "roBa_L"
 
-config ZMK_SPLIT
+//config ZMK_SPLIT
  //    default y
-default n
 
 endif
