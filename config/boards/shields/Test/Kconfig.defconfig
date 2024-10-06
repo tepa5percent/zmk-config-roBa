@@ -12,18 +12,12 @@ config ZMK_KEYBOARD_NAME
 
 endif
 
-if SHIELD_ROBA_L
+//if SHIELD_ROBA_L
 
- config ZMK_KEYBOARD_NAME
-    default "roBa_L"
->>>>>>> f01eb7521408ede1d967b404fd01be58aebe185e
+// config ZMK_KEYBOARD_NAME
+//    default "roBa_L"
 
-<<<<<<< HEAD
 //config ZMK_SPLIT
 //    default y
-=======
-//config ZMK_SPLIT
- //    default y
->>>>>>> f01eb7521408ede1d967b404fd01be58aebe185e
 
 //endif
