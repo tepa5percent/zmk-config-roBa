@@ -18,5 +18,5 @@
 #
 ---
 board: ["seeeduino_xiao_ble"]
-#shield: ["roBa_R","roBa_L","settings_reset"]
-shield: ["roBa_R","settings_reset"]
+shield: ["roBa_R","roBa_L","settings_reset"]
+#shield: ["roBa_R","settings_reset"]
